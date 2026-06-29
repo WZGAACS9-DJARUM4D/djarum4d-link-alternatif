@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://xzgaacs9-djarum4d.github.io/djarum4d-link-alternatif/sitemap.xml
+Sitemap: https://wzgaacs9-djarum4d.github.io/djarum4d-link-alternatif/sitemap.xml
